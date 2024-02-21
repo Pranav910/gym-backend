@@ -1,0 +1,15 @@
+{
+  "name": "gym-backend",
+  "version": "1.0.0",
+  "description": "contains all the api's",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3"
+  }
+}
